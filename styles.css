@@ -1,4 +1,15 @@
 h1{
     colour:#aaaaaa;
-    
+}
+body{
+    background-color:hotpink;
+}
+.red{
+    colour:red;
+}
+.backblack{
+    background-color:black;
+}
+#unique{
+    font-size: 200px;
 }
