@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Welcome</title>
+	<style>
+		* { box-sizing: border-box; }
+		body {
+			margin: 0;
+			font-family: Arial, sans-serif;
+			color: #1f2937;
+			background: #f3f4f6;
+		}
+		header {
+			padding: 1rem 2rem;
+			background: #111827;
+			color: white;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+		header h1 { margin: 0; font-size: 1.25rem; }
+		nav a { color: white; text-decoration: none; margin-left: 1rem; }
+		main {
+			min-height: calc(100vh - 130px);
+			display: grid;
+			place-items: center;
+			text-align: center;
+			padding: 2rem;
+		}
+		.hero { max-width: 650px; }
+		h2 { font-size: clamp(2rem, 6vw, 4rem); margin: 0 0 1rem; }
+		p { font-size: 1.1rem; line-height: 1.6; }
+		.button {
+			display: inline-block;
+			margin-top: 1rem;
+			padding: .75rem 1.25rem;
+			border-radius: .5rem;
+			background: #2563eb;
+			color: white;
+			text-decoration: none;
+		}
+		footer { padding: 1rem; text-align: center; color: #6b7280; }
+	</style>
+</head>
+<body>
+	<header>
+		<h1>My Website</h1>
+		<nav aria-label="Main navigation">
+			<a href="#home">Home</a>
+			<a href="#about">About</a>
+			<a href="#contact">Contact</a>
+		</nav>
+	</header>
+	<main id="home">
+		<section class="hero">
+			<h2>Welcome to my website</h2>
+			<p>A clean, simple starting point for your next project.</p>
+			<a class="button" href="#about">Learn more</a>
+		</section>
+	</main>
+	<footer>&copy; 2026 My Website</footer>
+</body>
+</html>
