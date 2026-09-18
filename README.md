@@ -1,3 +1,4 @@
-# Test
-Test
-# Hifgsdgkhgfgkffgjk
+# My Second Webpage
+This is an A-Level NEA coursework project. It is currently in its early stages. If it isn't and I haven't updated this README, tell me. I may (or more likely may not) do something about it.
+
+"about.html", "bitcoinwebsite.html" and "index.html" are somewhat my work, in that I created and improved (if you can call it that). "aigeneratedwebsite.html" is AI generated. I know, how could I use AI! But it was sort of accidental, and as of now serves as an example to work towards. I will avoid copying and pasting anything from it. Some of the content in "bitcoinwebsite.html" is copy and pasted from the website "https://bitcoinadvisory.co/learn/el-salvador-bitcoin-legal-tender-experiment". If this is not proper referencing then I will try to improve it. Also, I got "Bitcoin.png" from "http://www.pngall.com/bitcoin-png" (idk if it's a safe website as it's missing the "s" in "https"). But yeah that's sort of what this is. I haven't designed it to be user friendly. It is just on Github as a means of storing it. If you want you can try to use it, which I'm sure some of you (I say to the max. 1 person who will read this) will find incredible simple. Also hi sir if you're reading this.
