@@ -1,5 +1,5 @@
 body {
-    background-color:hotpink;
+    background-color:rgb(103, 71, 87);
 }
 .red {
     color:red;
@@ -11,13 +11,13 @@ body {
     font-size: 200px;
 }
 p {
-  border: 2px solid powderblue;
+  border: 2px solid rgb(0, 0, 0);
   padding: 30px;
   margin: 50px;
 }
 h1 {
-  color:#aaaaaa;
-  border: 2px solid powderblue;
+  color:#ffb0b0;
+  border: 2px solid rgb(0, 0, 0);
   padding: 30px;
   margin: 50px;
 }
