@@ -11,15 +11,18 @@ body {
     font-size: 200px;
 }
 p {
-  border: 2px solid rgb(0, 0, 0);
-  padding: 30px;
-  margin: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin: 50px;
+    color: #ffb0b0;
 }
 h1 {
-  color:#ffb0b0;
-  border: 2px solid rgb(0, 0, 0);
-  padding: 30px;
-  margin: 50px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color:#ffb0b0;
+      border: 2px solid rgb(0, 0, 0);
+      padding: 30px;
+      margin: 50px;
 }
 .image-container {
 display: flex;
